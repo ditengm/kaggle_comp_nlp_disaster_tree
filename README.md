@@ -1,5 +1,6 @@
 # kaggle_comp_nlp_disaster_tree
 The solve of kaggle competition of binary classification
+https://www.kaggle.com/competitions/nlp-getting-started
 ## Pipeline
 1. Generate features with EDA
 2. Create data proccesing based on finded features
